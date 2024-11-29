@@ -1,0 +1,7 @@
+C:\Users\karun\source\repos\CharactersSorting\CharactersSorting\bin\Debug\CharactersSorting.exe.config
+C:\Users\karun\source\repos\CharactersSorting\CharactersSorting\bin\Debug\CharactersSorting.exe
+C:\Users\karun\source\repos\CharactersSorting\CharactersSorting\bin\Debug\CharactersSorting.pdb
+C:\Users\karun\source\repos\CharactersSorting\CharactersSorting\obj\Debug\CharactersSorting.csproj.AssemblyReference.cache
+C:\Users\karun\source\repos\CharactersSorting\CharactersSorting\obj\Debug\CharactersSorting.csproj.CoreCompileInputs.cache
+C:\Users\karun\source\repos\CharactersSorting\CharactersSorting\obj\Debug\CharactersSorting.exe
+C:\Users\karun\source\repos\CharactersSorting\CharactersSorting\obj\Debug\CharactersSorting.pdb
